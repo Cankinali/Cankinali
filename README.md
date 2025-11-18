@@ -1,7 +1,7 @@
 # Merhaba, Ben Yusuf Can Kınalı 👋
 
-- 🎓 MIS öğrencisi | Veri Bilimi ve Yazılım Geliştirme
-- 🌱 Şu anda üzerinde çalışıyorum: Elektronik Sandalye Kiralama Sistemi
+- 🎓 MIS | Yazılım Geliştirme
+- 🌱 Şu anda üzerinde çalışıyorum: linux
 - ✉️ Bana ulaşın: [yusuf.kinali17@gmail.com)
 - 🔗 LinkedIn: [(https://linkedin.com/in/yusuf-can-kınalı-326223284/)]
 
